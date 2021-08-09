@@ -12,7 +12,7 @@ dari situs yang telah Anda tentukan, ini tidak berbahaya, dan ini hanya metode p
 * `pkg install python2`
 * `pip2 install requests`
 * `pkg install git`
-* `git clone https://github.com/B012ED/deface.git`
+* `git clone https://github.com/rizkyyz/deface`
 * `cd deface`
 * `python2 def.py`
 
@@ -21,7 +21,7 @@ dari situs yang telah Anda tentukan, ini tidak berbahaya, dan ini hanya metode p
 * `apt-get install python2-pip`
 * `pip install requests`
 * `apt-get install git`
-* `git clone https://github.com/B012ED/deface.git`
+* `git clone https://github.com/rizkyyz/deface.git`
 * `cd deface`
 * `python def.py`
 
